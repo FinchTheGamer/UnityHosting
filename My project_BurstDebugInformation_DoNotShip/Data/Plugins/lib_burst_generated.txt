@@ -10,6 +10,7 @@ Library: D:\Unity\exampleGameForLearning1\Lunchboxed\Temp\BurstOutput\Data\Plugi
 --target-framework=NetFramework
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\Unity\exampleGameForLearning1\Lunchboxed\Temp\Burst
+--debug=Full
 --generate-static-linkage-methods
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.5.0f1/Editor/Data/PlaybackEngines/WebGLSupport
 --decode-folder=D:\Unity\exampleGameForLearning1\Lunchboxed\Library\Burst
@@ -127,6 +128,7 @@ Library: D:\Unity\exampleGameForLearning1\Lunchboxed\Temp\BurstOutput\Data\Plugi
 --target-framework=NetFramework
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\Unity\exampleGameForLearning1\Lunchboxed\Temp\Burst
+--debug=Full
 --generate-static-linkage-methods
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.5.0f1/Editor/Data/PlaybackEngines/WebGLSupport
 --decode-folder=D:\Unity\exampleGameForLearning1\Lunchboxed\Library\Burst
@@ -168,6 +170,7 @@ Library: D:\Unity\exampleGameForLearning1\Lunchboxed\Temp\BurstOutput\Data\Plugi
 --float-mode=Fast
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\Unity\exampleGameForLearning1\Lunchboxed\Temp\Burst
+--debug=Full
 --generate-static-linkage-methods
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.5.0f1/Editor/Data/PlaybackEngines/WebGLSupport
 --decode-folder=D:\Unity\exampleGameForLearning1\Lunchboxed\Library\Burst
